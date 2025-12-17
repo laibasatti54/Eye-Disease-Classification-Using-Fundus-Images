@@ -1,0 +1,28 @@
+Eye Disease Detection Using Fundus Images
+This repository contains a project focused on detecting eye diseases using fundus images. The dataset used in this project is hosted on Roboflow and consists of labeled images suitable for training deep learning models.
+Dataset
+Source: Roboflow Fundus Dataset
+Description: Images of human retina (fundus) with annotations for various eye diseases.
+
+Purpose: To train models that can assist in early detection of diabetic retinopathy, glaucoma, cataract, and other retinal conditions.
+
+Project Overview
+
+Preprocess fundus images for model training.
+
+Build a deep learning model (CNN/ResNet-based) for binary or multi-class classification.
+
+Evaluate performance using accuracy, precision, recall, and F1-score.
+
+How to Use
+
+1. Clone this repository.
+
+2. Download the dataset from Roboflow.
+
+3. Run the preprocessing scripts and train the model.
+References
+
+Roboflow Dataset
+
+Relevant research papers on fundus image classification (2018 and above).
